@@ -3,7 +3,4 @@
 venv/
 .idea/
 
-static/images/*.jpg
-static/images/*.jpeg
-static/images/*.png
-static/images/*.jfif
+static/images/*
